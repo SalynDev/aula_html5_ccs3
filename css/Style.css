@@ -1,0 +1,28 @@
+body {
+    background: #91E1C8 ;
+    margin-left: 100px;
+    margin-right:100px
+    }
+    header {
+        margin-top: 70px
+    }
+    h1 {
+        color:red;
+        font-family: fantasy;
+    }
+    h2 {
+        font-family: fantasy;
+    }
+    p{
+        font-size:18px;
+    }
+    footer {
+         margin-bottom: 300px
+    }
+   .img_padrão{
+       margin-bottom: 200px;
+       width= 200px
+   }
+   .logo{
+    width: 100px;
+   }
